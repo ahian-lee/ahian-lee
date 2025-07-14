@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and NLP
 - 🌱 I’m currently learning RF and things like that
 - 💞️ I’m looking to collaborate on people who are very good at AI
-- 📫 How to reach me ahianlee10@gmail.com
+- 📫 How to reach me yuhanli@ustc.edu.cn
 
 <!---
 ahian-lee/ahian-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
